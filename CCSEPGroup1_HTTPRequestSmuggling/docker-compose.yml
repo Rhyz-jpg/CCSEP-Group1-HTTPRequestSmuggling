@@ -1,0 +1,19 @@
+version: "3"
+
+services:
+    proxy:
+        build: ProxyServer
+        ports:
+            - "8001:8002"
+            - "8003:8003"
+        links:
+            - "backend"
+        environment:
+            - SERVER_HOSTNAME=backend
+            - SERVER_PORT=8000
+    backend:
+        build: BackendServer
+        ports:
+            - "8000:8000"
+        
+
