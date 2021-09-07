@@ -11,7 +11,7 @@ Tanbir Irfan - Research + Background Information in Presentation
 
 Benjamin Kuuse -  Research + Impact and Real world Incidents in Presentation
 
-Gaye Mtwale - Resarch + Vulnerability definition in Presentation
+Gaye Mtwale - Research + Vulnerability definition in Presentation
 
 ## HTTP Request Smuggling
 
