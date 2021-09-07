@@ -2,11 +2,11 @@
 
 # README
 Assignment Group 1
-Ryan Thuys
-Brodie Carpenter
-Tanbir Irfan
-Benjamin Kuuse
-Gaye Mtwale
+Ryan Thuys 19489313 - Demo Program + Demo in presentation
+Brodie Carpenter - Demo Program + Preventation and Detection in Presentation
+Tanbir Irfan - Research + Background Information in Presentation
+Benjamin Kuuse -  Research + Impact and Real world Incidents in Presentation
+Gaye Mtwale - Resarch + Vulnerability definition in Presentation
 
 ## HTTP Request Smuggling
 
